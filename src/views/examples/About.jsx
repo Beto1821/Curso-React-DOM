@@ -2,8 +2,8 @@ import React from 'react'
 
 const About = props => (
   <div className='About'>
-    <h1>sobre</h1>
-    <p>O nosso sis...</p>
+    <h1>Sobre</h1>
+    <h2>O nosso sis...</h2>
   </div>
 )
 
